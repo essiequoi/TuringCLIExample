@@ -1,4 +1,5 @@
 # see tutorial https://turinglang.github.io/TuringCallbacks.jl/dev/
+#turing test
 
 module TuringCLIExample
 
